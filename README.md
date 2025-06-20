@@ -112,19 +112,14 @@ Here are some core principles I teach:
 
 ## 🎉 Fun Facts
 
-- 🎮 I automate everything, including my coffee maker
-- 📚 I read 50+ books a year (with the help of automation!)
-- 🧠 I see ADHD as a different operating system, not a bug
-- 🧩 I believe the best productivity system is the one you'll actually use
+- ⚡ My favorite debugging methods alternate between taking a walk and taking a nap
+- 📧 My email inbox stays at zero (thanks to automation, not willpower 😆)
+- 🧠 I think in workflows and see patterns everywhere
+- 🎧 My go-to coding playlist: [![Spotify](https://img.shields.io/badge/Spotify-Music_For_Undersea_Voyages-1DB954?style=plastic&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5vonwxtaBsv07NowywW2yY?si=f8d7a603e50e41a0)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=learnwithcc&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  ### 💭 Quote of the Day
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   
   <br/>
   
