@@ -62,26 +62,6 @@ At **LearnWith.cc**, I teach practical automation and productivity systems desig
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithcc&layout=compact&theme=tokyonight-duo&hide_border=false&border_color=F3F3F3" alt="Top Languages" />
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/learnwithcc/my-mac-setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnwithcc&repo=my-mac-setup&theme=tokyonight-duo&hide_border=false&border_color=F3F3F3" />
-  </a>
-  <a href="https://github.com/learnwithcc/airschema-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnwithcc&repo=airschema-cli&theme=tokyonight-duo&hide_border=false&border_color=F3F3F3" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/learnwithcc/api-discovery-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnwithcc&repo=api-discovery-tool&theme=tokyonight-duo&hide_border=false&border_color=F3F3F3" />
-  </a>
-  <a href="https://github.com/learnwithcc/dither-magic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=learnwithcc&repo=dither-magic&theme=tokyonight-duo&hide_border=false&border_color=F3F3F3" />
-  </a>
-</div>
-
 ## 🌱 What I'm Exploring
 
 - 🤖 AI tools that enhance (not replace) human creativity
